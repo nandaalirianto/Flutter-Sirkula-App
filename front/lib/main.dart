@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:geden/screens/auth/loginScreen.dart';
+import 'package:Sirkula/screens/auth/loginScreen.dart';
 
 void main() {
   runApp(const Sirkula());
